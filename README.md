@@ -4,7 +4,7 @@ Group members: <br/>
 • Pierre E.S Moningka - 00000128411  <br/>
 • Dylan Wilson - 00000134282 <br/>
 
----RULES---
+---RULES---<br/>
 • 1 minute in-game means 1 second in real life.<br/>
 • There are 7 statuses that you need to know, namely: HP, Hunger, Stamina, Attack, Speed, Armor, and Gold.<br/>
 • HP can be reduced and restored on many occassions during the game, but HP touches 0, you will die and forced to reset your progress.<br/>
